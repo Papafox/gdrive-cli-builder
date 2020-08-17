@@ -1,1 +1,1 @@
-linux/armv7
+linux/i386
