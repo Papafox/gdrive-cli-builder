@@ -1,1 +1,1 @@
-linux/armv7h
+linux/armv7
